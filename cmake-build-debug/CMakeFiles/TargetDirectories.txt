@@ -1,0 +1,3 @@
+/home/ilnu/CLionProjects/OOP_team_project/cmake-build-debug/CMakeFiles/OOP_team_project.dir
+/home/ilnu/CLionProjects/OOP_team_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ilnu/CLionProjects/OOP_team_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
