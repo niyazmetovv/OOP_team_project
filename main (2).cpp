@@ -33,11 +33,10 @@ int main() {
     std::cout << "\nWelcome, " << user.getNickname() << "! Starting quiz...\n\n";
     quiz.displayQuestionsAndGetAnswers(user);
 
-    // Show Leaderboard
+    // Leaderboard
     std::cout << "\nFinal Scores:\n";
     manager.leaderboard();
-
-    // Clean up
+    
     delete q1;
     delete q2;
     delete q3;
