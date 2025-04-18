@@ -6,7 +6,7 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(.)
 
 add_executable(OOP_team_project
-    "main (2).cpp"
+    "main.cpp"
     MCQ.h
     OpenEnded.h
     Question.h
